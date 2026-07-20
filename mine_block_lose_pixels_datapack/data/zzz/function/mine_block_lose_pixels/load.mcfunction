@@ -1,0 +1,1 @@
+scoreboard objectives add mine_block_lose_pixels dummy
