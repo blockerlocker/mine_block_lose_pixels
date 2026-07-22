@@ -10,7 +10,7 @@ layout(std140) uniform BitsConfig {
     float MosaicSize;
 };
 
-out vec4 fragColor;
+layout(location = 0) out vec4 fragColor;
 
 void main() {
     vec2 pixelCoord = gl_FragCoord.xy;
