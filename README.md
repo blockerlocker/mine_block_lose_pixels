@@ -1,4 +1,4 @@
-Made for 26.3-snapshot-4
+Made for 26.3-snapshot-5
 
 This data pack makes the screen more and more pixelated every time you mine a block. The screen pixelation effect requires the included resource pack, and may not be compatible with mods like Sodium, Iris, and Optifine (I have only tested it in vanilla).
 
