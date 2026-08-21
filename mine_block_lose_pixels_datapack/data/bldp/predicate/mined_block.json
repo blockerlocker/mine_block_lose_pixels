@@ -815,6 +815,24 @@
             "type": "minecraft:entity_scores",
             "entity": "this",
             "scores": {
+                "bldp.mined.black_concrete_slab": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.black_concrete_stairs": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
                 "bldp.mined.black_glazed_terracotta": {
                     "min": 1
                 }
@@ -996,6 +1014,24 @@
             "entity": "this",
             "scores": {
                 "bldp.mined.blue_concrete_powder": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.blue_concrete_slab": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.blue_concrete_stairs": {
                     "min": 1
                 }
             }
@@ -1257,6 +1293,24 @@
             "entity": "this",
             "scores": {
                 "bldp.mined.brown_concrete_powder": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.brown_concrete_slab": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.brown_concrete_stairs": {
                     "min": 1
                 }
             }
@@ -2660,6 +2714,24 @@
             "type": "minecraft:entity_scores",
             "entity": "this",
             "scores": {
+                "bldp.mined.cyan_concrete_slab": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.cyan_concrete_stairs": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
                 "bldp.mined.cyan_glazed_terracotta": {
                     "min": 1
                 }
@@ -4037,6 +4109,24 @@
             "type": "minecraft:entity_scores",
             "entity": "this",
             "scores": {
+                "bldp.mined.gray_concrete_slab": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.gray_concrete_stairs": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
                 "bldp.mined.gray_glazed_terracotta": {
                     "min": 1
                 }
@@ -4173,6 +4263,24 @@
             "entity": "this",
             "scores": {
                 "bldp.mined.green_concrete_powder": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.green_concrete_slab": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.green_concrete_stairs": {
                     "min": 1
                 }
             }
@@ -4874,6 +4982,24 @@
             "type": "minecraft:entity_scores",
             "entity": "this",
             "scores": {
+                "bldp.mined.light_blue_concrete_slab": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.light_blue_concrete_stairs": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
                 "bldp.mined.light_blue_glazed_terracotta": {
                     "min": 1
                 }
@@ -5010,6 +5136,24 @@
             "entity": "this",
             "scores": {
                 "bldp.mined.light_gray_concrete_powder": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.light_gray_concrete_slab": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.light_gray_concrete_stairs": {
                     "min": 1
                 }
             }
@@ -5207,6 +5351,24 @@
             "type": "minecraft:entity_scores",
             "entity": "this",
             "scores": {
+                "bldp.mined.lime_concrete_slab": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.lime_concrete_stairs": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
                 "bldp.mined.lime_glazed_terracotta": {
                     "min": 1
                 }
@@ -5361,6 +5523,24 @@
             "entity": "this",
             "scores": {
                 "bldp.mined.magenta_concrete_powder": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.magenta_concrete_slab": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.magenta_concrete_stairs": {
                     "min": 1
                 }
             }
@@ -6215,6 +6395,24 @@
             "type": "minecraft:entity_scores",
             "entity": "this",
             "scores": {
+                "bldp.mined.orange_concrete_slab": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.orange_concrete_stairs": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
                 "bldp.mined.orange_glazed_terracotta": {
                     "min": 1
                 }
@@ -6765,6 +6963,24 @@
             "entity": "this",
             "scores": {
                 "bldp.mined.pink_concrete_powder": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.pink_concrete_slab": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.pink_concrete_stairs": {
                     "min": 1
                 }
             }
@@ -7970,6 +8186,24 @@
             "type": "minecraft:entity_scores",
             "entity": "this",
             "scores": {
+                "bldp.mined.purple_concrete_slab": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.purple_concrete_stairs": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
                 "bldp.mined.purple_glazed_terracotta": {
                     "min": 1
                 }
@@ -8223,6 +8457,24 @@
             "entity": "this",
             "scores": {
                 "bldp.mined.red_concrete_powder": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.red_concrete_slab": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.red_concrete_stairs": {
                     "min": 1
                 }
             }
@@ -10994,6 +11246,24 @@
             "type": "minecraft:entity_scores",
             "entity": "this",
             "scores": {
+                "bldp.mined.white_concrete_slab": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.white_concrete_stairs": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
                 "bldp.mined.white_glazed_terracotta": {
                     "min": 1
                 }
@@ -11175,6 +11445,24 @@
             "entity": "this",
             "scores": {
                 "bldp.mined.yellow_concrete_powder": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.yellow_concrete_slab": {
+                    "min": 1
+                }
+            }
+        },
+        {
+            "type": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "bldp.mined.yellow_concrete_stairs": {
                     "min": 1
                 }
             }

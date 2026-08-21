@@ -89,6 +89,8 @@ scoreboard objectives add bldp.mined.black_candle_cake minecraft.mined:black_can
 scoreboard objectives add bldp.mined.black_carpet minecraft.mined:black_carpet
 scoreboard objectives add bldp.mined.black_concrete minecraft.mined:black_concrete
 scoreboard objectives add bldp.mined.black_concrete_powder minecraft.mined:black_concrete_powder
+scoreboard objectives add bldp.mined.black_concrete_slab minecraft.mined:black_concrete_slab
+scoreboard objectives add bldp.mined.black_concrete_stairs minecraft.mined:black_concrete_stairs
 scoreboard objectives add bldp.mined.black_glazed_terracotta minecraft.mined:black_glazed_terracotta
 scoreboard objectives add bldp.mined.black_shulker_box minecraft.mined:black_shulker_box
 scoreboard objectives add bldp.mined.black_stained_glass minecraft.mined:black_stained_glass
@@ -110,6 +112,8 @@ scoreboard objectives add bldp.mined.blue_candle_cake minecraft.mined:blue_candl
 scoreboard objectives add bldp.mined.blue_carpet minecraft.mined:blue_carpet
 scoreboard objectives add bldp.mined.blue_concrete minecraft.mined:blue_concrete
 scoreboard objectives add bldp.mined.blue_concrete_powder minecraft.mined:blue_concrete_powder
+scoreboard objectives add bldp.mined.blue_concrete_slab minecraft.mined:blue_concrete_slab
+scoreboard objectives add bldp.mined.blue_concrete_stairs minecraft.mined:blue_concrete_stairs
 scoreboard objectives add bldp.mined.blue_glazed_terracotta minecraft.mined:blue_glazed_terracotta
 scoreboard objectives add bldp.mined.blue_ice minecraft.mined:blue_ice
 scoreboard objectives add bldp.mined.blue_orchid minecraft.mined:blue_orchid
@@ -139,6 +143,8 @@ scoreboard objectives add bldp.mined.brown_candle_cake minecraft.mined:brown_can
 scoreboard objectives add bldp.mined.brown_carpet minecraft.mined:brown_carpet
 scoreboard objectives add bldp.mined.brown_concrete minecraft.mined:brown_concrete
 scoreboard objectives add bldp.mined.brown_concrete_powder minecraft.mined:brown_concrete_powder
+scoreboard objectives add bldp.mined.brown_concrete_slab minecraft.mined:brown_concrete_slab
+scoreboard objectives add bldp.mined.brown_concrete_stairs minecraft.mined:brown_concrete_stairs
 scoreboard objectives add bldp.mined.brown_glazed_terracotta minecraft.mined:brown_glazed_terracotta
 scoreboard objectives add bldp.mined.brown_mushroom minecraft.mined:brown_mushroom
 scoreboard objectives add bldp.mined.brown_mushroom_block minecraft.mined:brown_mushroom_block
@@ -294,6 +300,8 @@ scoreboard objectives add bldp.mined.cyan_candle_cake minecraft.mined:cyan_candl
 scoreboard objectives add bldp.mined.cyan_carpet minecraft.mined:cyan_carpet
 scoreboard objectives add bldp.mined.cyan_concrete minecraft.mined:cyan_concrete
 scoreboard objectives add bldp.mined.cyan_concrete_powder minecraft.mined:cyan_concrete_powder
+scoreboard objectives add bldp.mined.cyan_concrete_slab minecraft.mined:cyan_concrete_slab
+scoreboard objectives add bldp.mined.cyan_concrete_stairs minecraft.mined:cyan_concrete_stairs
 scoreboard objectives add bldp.mined.cyan_glazed_terracotta minecraft.mined:cyan_glazed_terracotta
 scoreboard objectives add bldp.mined.cyan_shulker_box minecraft.mined:cyan_shulker_box
 scoreboard objectives add bldp.mined.cyan_stained_glass minecraft.mined:cyan_stained_glass
@@ -447,6 +455,8 @@ scoreboard objectives add bldp.mined.gray_candle_cake minecraft.mined:gray_candl
 scoreboard objectives add bldp.mined.gray_carpet minecraft.mined:gray_carpet
 scoreboard objectives add bldp.mined.gray_concrete minecraft.mined:gray_concrete
 scoreboard objectives add bldp.mined.gray_concrete_powder minecraft.mined:gray_concrete_powder
+scoreboard objectives add bldp.mined.gray_concrete_slab minecraft.mined:gray_concrete_slab
+scoreboard objectives add bldp.mined.gray_concrete_stairs minecraft.mined:gray_concrete_stairs
 scoreboard objectives add bldp.mined.gray_glazed_terracotta minecraft.mined:gray_glazed_terracotta
 scoreboard objectives add bldp.mined.gray_shulker_box minecraft.mined:gray_shulker_box
 scoreboard objectives add bldp.mined.gray_stained_glass minecraft.mined:gray_stained_glass
@@ -463,6 +473,8 @@ scoreboard objectives add bldp.mined.green_candle_cake minecraft.mined:green_can
 scoreboard objectives add bldp.mined.green_carpet minecraft.mined:green_carpet
 scoreboard objectives add bldp.mined.green_concrete minecraft.mined:green_concrete
 scoreboard objectives add bldp.mined.green_concrete_powder minecraft.mined:green_concrete_powder
+scoreboard objectives add bldp.mined.green_concrete_slab minecraft.mined:green_concrete_slab
+scoreboard objectives add bldp.mined.green_concrete_stairs minecraft.mined:green_concrete_stairs
 scoreboard objectives add bldp.mined.green_glazed_terracotta minecraft.mined:green_glazed_terracotta
 scoreboard objectives add bldp.mined.green_shulker_box minecraft.mined:green_shulker_box
 scoreboard objectives add bldp.mined.green_stained_glass minecraft.mined:green_stained_glass
@@ -540,6 +552,8 @@ scoreboard objectives add bldp.mined.light_blue_candle_cake minecraft.mined:ligh
 scoreboard objectives add bldp.mined.light_blue_carpet minecraft.mined:light_blue_carpet
 scoreboard objectives add bldp.mined.light_blue_concrete minecraft.mined:light_blue_concrete
 scoreboard objectives add bldp.mined.light_blue_concrete_powder minecraft.mined:light_blue_concrete_powder
+scoreboard objectives add bldp.mined.light_blue_concrete_slab minecraft.mined:light_blue_concrete_slab
+scoreboard objectives add bldp.mined.light_blue_concrete_stairs minecraft.mined:light_blue_concrete_stairs
 scoreboard objectives add bldp.mined.light_blue_glazed_terracotta minecraft.mined:light_blue_glazed_terracotta
 scoreboard objectives add bldp.mined.light_blue_shulker_box minecraft.mined:light_blue_shulker_box
 scoreboard objectives add bldp.mined.light_blue_stained_glass minecraft.mined:light_blue_stained_glass
@@ -556,6 +570,8 @@ scoreboard objectives add bldp.mined.light_gray_candle_cake minecraft.mined:ligh
 scoreboard objectives add bldp.mined.light_gray_carpet minecraft.mined:light_gray_carpet
 scoreboard objectives add bldp.mined.light_gray_concrete minecraft.mined:light_gray_concrete
 scoreboard objectives add bldp.mined.light_gray_concrete_powder minecraft.mined:light_gray_concrete_powder
+scoreboard objectives add bldp.mined.light_gray_concrete_slab minecraft.mined:light_gray_concrete_slab
+scoreboard objectives add bldp.mined.light_gray_concrete_stairs minecraft.mined:light_gray_concrete_stairs
 scoreboard objectives add bldp.mined.light_gray_glazed_terracotta minecraft.mined:light_gray_glazed_terracotta
 scoreboard objectives add bldp.mined.light_gray_shulker_box minecraft.mined:light_gray_shulker_box
 scoreboard objectives add bldp.mined.light_gray_stained_glass minecraft.mined:light_gray_stained_glass
@@ -577,6 +593,8 @@ scoreboard objectives add bldp.mined.lime_candle_cake minecraft.mined:lime_candl
 scoreboard objectives add bldp.mined.lime_carpet minecraft.mined:lime_carpet
 scoreboard objectives add bldp.mined.lime_concrete minecraft.mined:lime_concrete
 scoreboard objectives add bldp.mined.lime_concrete_powder minecraft.mined:lime_concrete_powder
+scoreboard objectives add bldp.mined.lime_concrete_slab minecraft.mined:lime_concrete_slab
+scoreboard objectives add bldp.mined.lime_concrete_stairs minecraft.mined:lime_concrete_stairs
 scoreboard objectives add bldp.mined.lime_glazed_terracotta minecraft.mined:lime_glazed_terracotta
 scoreboard objectives add bldp.mined.lime_shulker_box minecraft.mined:lime_shulker_box
 scoreboard objectives add bldp.mined.lime_stained_glass minecraft.mined:lime_stained_glass
@@ -595,6 +613,8 @@ scoreboard objectives add bldp.mined.magenta_candle_cake minecraft.mined:magenta
 scoreboard objectives add bldp.mined.magenta_carpet minecraft.mined:magenta_carpet
 scoreboard objectives add bldp.mined.magenta_concrete minecraft.mined:magenta_concrete
 scoreboard objectives add bldp.mined.magenta_concrete_powder minecraft.mined:magenta_concrete_powder
+scoreboard objectives add bldp.mined.magenta_concrete_slab minecraft.mined:magenta_concrete_slab
+scoreboard objectives add bldp.mined.magenta_concrete_stairs minecraft.mined:magenta_concrete_stairs
 scoreboard objectives add bldp.mined.magenta_glazed_terracotta minecraft.mined:magenta_glazed_terracotta
 scoreboard objectives add bldp.mined.magenta_shulker_box minecraft.mined:magenta_shulker_box
 scoreboard objectives add bldp.mined.magenta_stained_glass minecraft.mined:magenta_stained_glass
@@ -689,6 +709,8 @@ scoreboard objectives add bldp.mined.orange_candle_cake minecraft.mined:orange_c
 scoreboard objectives add bldp.mined.orange_carpet minecraft.mined:orange_carpet
 scoreboard objectives add bldp.mined.orange_concrete minecraft.mined:orange_concrete
 scoreboard objectives add bldp.mined.orange_concrete_powder minecraft.mined:orange_concrete_powder
+scoreboard objectives add bldp.mined.orange_concrete_slab minecraft.mined:orange_concrete_slab
+scoreboard objectives add bldp.mined.orange_concrete_stairs minecraft.mined:orange_concrete_stairs
 scoreboard objectives add bldp.mined.orange_glazed_terracotta minecraft.mined:orange_glazed_terracotta
 scoreboard objectives add bldp.mined.orange_poplar_leaves minecraft.mined:orange_poplar_leaves
 scoreboard objectives add bldp.mined.orange_shulker_box minecraft.mined:orange_shulker_box
@@ -751,6 +773,8 @@ scoreboard objectives add bldp.mined.pink_candle_cake minecraft.mined:pink_candl
 scoreboard objectives add bldp.mined.pink_carpet minecraft.mined:pink_carpet
 scoreboard objectives add bldp.mined.pink_concrete minecraft.mined:pink_concrete
 scoreboard objectives add bldp.mined.pink_concrete_powder minecraft.mined:pink_concrete_powder
+scoreboard objectives add bldp.mined.pink_concrete_slab minecraft.mined:pink_concrete_slab
+scoreboard objectives add bldp.mined.pink_concrete_stairs minecraft.mined:pink_concrete_stairs
 scoreboard objectives add bldp.mined.pink_glazed_terracotta minecraft.mined:pink_glazed_terracotta
 scoreboard objectives add bldp.mined.pink_petals minecraft.mined:pink_petals
 scoreboard objectives add bldp.mined.pink_shulker_box minecraft.mined:pink_shulker_box
@@ -884,6 +908,8 @@ scoreboard objectives add bldp.mined.purple_candle_cake minecraft.mined:purple_c
 scoreboard objectives add bldp.mined.purple_carpet minecraft.mined:purple_carpet
 scoreboard objectives add bldp.mined.purple_concrete minecraft.mined:purple_concrete
 scoreboard objectives add bldp.mined.purple_concrete_powder minecraft.mined:purple_concrete_powder
+scoreboard objectives add bldp.mined.purple_concrete_slab minecraft.mined:purple_concrete_slab
+scoreboard objectives add bldp.mined.purple_concrete_stairs minecraft.mined:purple_concrete_stairs
 scoreboard objectives add bldp.mined.purple_glazed_terracotta minecraft.mined:purple_glazed_terracotta
 scoreboard objectives add bldp.mined.purple_shulker_box minecraft.mined:purple_shulker_box
 scoreboard objectives add bldp.mined.purple_stained_glass minecraft.mined:purple_stained_glass
@@ -913,6 +939,8 @@ scoreboard objectives add bldp.mined.red_candle_cake minecraft.mined:red_candle_
 scoreboard objectives add bldp.mined.red_carpet minecraft.mined:red_carpet
 scoreboard objectives add bldp.mined.red_concrete minecraft.mined:red_concrete
 scoreboard objectives add bldp.mined.red_concrete_powder minecraft.mined:red_concrete_powder
+scoreboard objectives add bldp.mined.red_concrete_slab minecraft.mined:red_concrete_slab
+scoreboard objectives add bldp.mined.red_concrete_stairs minecraft.mined:red_concrete_stairs
 scoreboard objectives add bldp.mined.red_glazed_terracotta minecraft.mined:red_glazed_terracotta
 scoreboard objectives add bldp.mined.red_mushroom minecraft.mined:red_mushroom
 scoreboard objectives add bldp.mined.red_mushroom_block minecraft.mined:red_mushroom_block
@@ -1220,6 +1248,8 @@ scoreboard objectives add bldp.mined.white_candle_cake minecraft.mined:white_can
 scoreboard objectives add bldp.mined.white_carpet minecraft.mined:white_carpet
 scoreboard objectives add bldp.mined.white_concrete minecraft.mined:white_concrete
 scoreboard objectives add bldp.mined.white_concrete_powder minecraft.mined:white_concrete_powder
+scoreboard objectives add bldp.mined.white_concrete_slab minecraft.mined:white_concrete_slab
+scoreboard objectives add bldp.mined.white_concrete_stairs minecraft.mined:white_concrete_stairs
 scoreboard objectives add bldp.mined.white_glazed_terracotta minecraft.mined:white_glazed_terracotta
 scoreboard objectives add bldp.mined.white_shulker_box minecraft.mined:white_shulker_box
 scoreboard objectives add bldp.mined.white_stained_glass minecraft.mined:white_stained_glass
@@ -1241,6 +1271,8 @@ scoreboard objectives add bldp.mined.yellow_candle_cake minecraft.mined:yellow_c
 scoreboard objectives add bldp.mined.yellow_carpet minecraft.mined:yellow_carpet
 scoreboard objectives add bldp.mined.yellow_concrete minecraft.mined:yellow_concrete
 scoreboard objectives add bldp.mined.yellow_concrete_powder minecraft.mined:yellow_concrete_powder
+scoreboard objectives add bldp.mined.yellow_concrete_slab minecraft.mined:yellow_concrete_slab
+scoreboard objectives add bldp.mined.yellow_concrete_stairs minecraft.mined:yellow_concrete_stairs
 scoreboard objectives add bldp.mined.yellow_glazed_terracotta minecraft.mined:yellow_glazed_terracotta
 scoreboard objectives add bldp.mined.yellow_poplar_leaves minecraft.mined:yellow_poplar_leaves
 scoreboard objectives add bldp.mined.yellow_shulker_box minecraft.mined:yellow_shulker_box
